@@ -1,16 +1,21 @@
 # Minimal reproducible exampe for VueJS 3.5.14+ slots bug
 
 Run `npm install`
+
 Run `vite`
+
 
 Go to http://localhost:8080
 Page displays OK
 
 Change `"vue": "3.5.13"` to `"vue": "3.5.14"` or later
+
 Run `npm install`
+
 Run `vite`
 
 Go to http://localhost:8080
+
 Page doesn't display, throws:
 
 ```
