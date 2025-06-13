@@ -1,4 +1,4 @@
-# Minimal reproducible exampe for VueJS 3.5.14+ slots bug
+# Minimal reproducible example for VueJS 3.5.14+ slots bug
 
 Run `npm install`
 
